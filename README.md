@@ -1,3 +1,5 @@
+# Some attempts to use the new IPA node without affecting the old IPA node files
+
 # ComfyUI IPAdapter plus
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI) reference implementation for [IPAdapter](https://github.com/tencent-ailab/IP-Adapter/) models.
 
